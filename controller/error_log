@@ -1,0 +1,250 @@
+[27-Jul-2024 05:17:28 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:18:04 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:18:04 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:18:29 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:18:53 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:19:32 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:19:43 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:19:44 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 05:20:02 UTC] PHP Parse error:  Unmatched '}' in /home/dynstydb/public_html/controller/fetch_joins.php on line 238
+[27-Jul-2024 06:01:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dynstydb/public_html/controller/fetch_joins.php:218
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(218): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 218
+[27-Jul-2024 06:19:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dynstydb/public_html/controller/fetch_joins.php:218
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(218): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 218
+[27-Jul-2024 06:21:33 UTC] PHP Warning:  Undefined variable $selectedcolor in /home/dynstydb/public_html/controller/fetch_joins.php on line 224
+[27-Jul-2024 06:21:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:228
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(228): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 228
+[27-Jul-2024 06:22:27 UTC] PHP Warning:  Undefined variable $selectedcolor in /home/dynstydb/public_html/controller/fetch_joins.php on line 224
+[27-Jul-2024 06:22:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:228
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(228): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 228
+[27-Jul-2024 06:22:50 UTC] PHP Warning:  Undefined variable $selectedcolor in /home/dynstydb/public_html/controller/fetch_joins.php on line 224
+[27-Jul-2024 06:22:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:228
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(228): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 228
+[27-Jul-2024 06:24:15 UTC] PHP Warning:  Undefined variable $selectedcolor in /home/dynstydb/public_html/controller/fetch_joins.php on line 224
+[27-Jul-2024 06:24:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:228
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(228): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 228
+[27-Jul-2024 06:24:23 UTC] PHP Warning:  Undefined variable $selectedcolor in /home/dynstydb/public_html/controller/fetch_joins.php on line 224
+[27-Jul-2024 06:24:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:228
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(228): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 228
+[03-Aug-2024 14:39:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[03-Aug-2024 14:56:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[03-Aug-2024 14:57:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[03-Aug-2024 14:57:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 01:27:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 01:27:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 01:28:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 07:56:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 08:00:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 09:28:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 09:29:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 09:29:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 09:29:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:55:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:55:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:56:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:56:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:56:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:57:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[04-Aug-2024 10:57:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[05-Aug-2024 09:18:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[05-Aug-2024 09:18:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[05-Aug-2024 15:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dynstydb/public_html/controller/fetchwalletbyid.php on line 21
+[06-Aug-2024 06:32:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:33:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:55:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:55:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:55:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:57:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:59:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:59:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 06:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:00:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:01:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:01:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:03:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:04:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:06:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:07:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
+[06-Aug-2024 07:07:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'number' cannot be null in /home/dynstydb/public_html/controller/fetch_joins.php:173
+Stack trace:
+#0 /home/dynstydb/public_html/controller/fetch_joins.php(173): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/dynstydb/public_html/controller/fetch_joins.php on line 173
